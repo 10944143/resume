@@ -1,0 +1,107 @@
+body{
+    background-image: url(Webp.net-gifmaker.gif);
+    background-size: 1800px;
+    
+    }
+    
+    footer{
+        background-color: rgb(156, 156, 156);
+        text-align: center;
+    }
+a {
+    color:rgb(255, 255, 255);
+}
+
+td{
+    padding: 0px 0px 20px;
+}
+
+.div1{
+    background-color: rgb(117, 117, 117);   
+    padding: 50px;
+    margin: 50px 200px;
+    color: rgb(255, 255, 255);   
+    width: 1000px;
+    outline: 10px;
+    border-radius: 20px;
+    
+}
+.div2{
+    margin: 500px 1000px;
+}
+
+.ta1{
+    border: 5px rgb(130, 185, 221) dashed;
+    font-size: 30px;
+    padding: 10px 100px;
+    width:1000px;
+    text-align: left;
+    line-height: 50px;
+    
+}
+.ta2{
+    border: 5px rgb(126, 209, 184) dashed;
+    font-size: 30px;
+    padding: 10px 50px 50px;
+    width:1000px;
+    text-align: center;
+    line-height: 50px;
+}
+.ta3{
+    border: 5px rgb(154, 153, 224) dashed;
+    font-size: 30px;
+    padding: 10px 50px 50px;
+    width:1000px;
+    text-align: center;
+    line-height: 50px;
+}
+.ta4{
+    border: 5px rgb(219, 210, 158) dashed;
+    font-size: 30px;
+    padding: 10px 50px 50px;
+    width:1000px;
+    text-align: center;
+    line-height: 50px;
+}
+
+.th1{
+    font-size: 72px;
+    text-align: center;
+    padding: 30px;
+    border-bottom: 10px rgb(130, 185, 221)  double;
+}
+.th2{
+    font-size: 72px;
+    text-align: center;
+    padding: 30px;
+    border-bottom: 10px rgb(126, 209, 184)  double;
+}
+.th3{
+    font-size: 72px;
+    text-align: center;
+    padding: 30px;
+    border-bottom: 10px rgb(154, 153, 224)  double;
+}
+.th4{
+    font-size: 72px;
+    text-align: center;
+    padding: 30px;
+    border-bottom: 10px rgb(219, 210, 158)  double;
+}
+
+.img{    
+   
+    padding: 10px 60px 10px 30px;
+    margin: 30px 30px;    
+}
+
+.td1{
+    padding: 20px 0px 0px;
+}
+
+.top{
+    position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 100px;
+}
